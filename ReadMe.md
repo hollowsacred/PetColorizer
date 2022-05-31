@@ -1,4 +1,4 @@
-#Colorize
+# Colorize
 Just pet-project on native-js
 ## Instructions
 1. download zip
